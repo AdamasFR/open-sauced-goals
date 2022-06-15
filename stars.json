@@ -1,31 +1,31 @@
 [
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 12212,
-    "open_issues_count": 449,
+    "stargazers_count": 12235,
+    "open_issues_count": 456,
     "forks_count": 381
   },
   {
     "full_name": "JetBrains/JetBrainsMono",
-    "stargazers_count": 7639,
-    "open_issues_count": 99,
+    "stargazers_count": 7650,
+    "open_issues_count": 100,
     "forks_count": 218
   },
   {
     "full_name": "mdn/content",
-    "stargazers_count": 5616,
-    "open_issues_count": 811,
-    "forks_count": 9437
+    "stargazers_count": 5641,
+    "open_issues_count": 812,
+    "forks_count": 9526
   },
   {
     "full_name": "8layer8/docker-cura",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 3,
     "forks_count": 6
   },
   {
     "full_name": "merlinmann/wisdom",
-    "stargazers_count": 365,
+    "stargazers_count": 366,
     "open_issues_count": 2,
     "forks_count": 19
   },
@@ -37,39 +37,39 @@
   },
   {
     "full_name": "jhipster/generator-jhipster",
-    "stargazers_count": 19599,
-    "open_issues_count": 192,
-    "forks_count": 3824
+    "stargazers_count": 19642,
+    "open_issues_count": 191,
+    "forks_count": 3828
   },
   {
     "full_name": "cross-rs/cross",
-    "stargazers_count": 3092,
-    "open_issues_count": 144,
+    "stargazers_count": 3099,
+    "open_issues_count": 135,
     "forks_count": 238
   },
   {
     "full_name": "chubin/wttr.in",
-    "stargazers_count": 18603,
-    "open_issues_count": 184,
-    "forks_count": 879
+    "stargazers_count": 18641,
+    "open_issues_count": 186,
+    "forks_count": 881
   },
   {
     "full_name": "eramdam/BetterTweetDeck",
-    "stargazers_count": 962,
-    "open_issues_count": 59,
+    "stargazers_count": 963,
+    "open_issues_count": 60,
     "forks_count": 93
   },
   {
     "full_name": "andreimarcu/linx-server",
-    "stargazers_count": 1229,
+    "stargazers_count": 1231,
     "open_issues_count": 28,
     "forks_count": 159
   },
   {
     "full_name": "dekuNukem/bob_cassette_rewinder",
-    "stargazers_count": 1189,
+    "stargazers_count": 1192,
     "open_issues_count": 14,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "phibr0/obsidian-dictionary",
@@ -86,14 +86,14 @@
   {
     "full_name": "SocialGouv/code-du-travail-numerique",
     "stargazers_count": 85,
-    "open_issues_count": 214,
+    "open_issues_count": 212,
     "forks_count": 21
   },
   {
     "full_name": "k88hudson/git-flight-rules",
-    "stargazers_count": 38802,
+    "stargazers_count": 38820,
     "open_issues_count": 14,
-    "forks_count": 2992
+    "forks_count": 2991
   },
   {
     "full_name": "4lejandrito/creepyface",
@@ -103,51 +103,51 @@
   },
   {
     "full_name": "powerline/powerline",
-    "stargazers_count": 13314,
+    "stargazers_count": 13320,
     "open_issues_count": 214,
     "forks_count": 993
   },
   {
     "full_name": "Twixes/SF-Mono-Powerline",
-    "stargazers_count": 413,
+    "stargazers_count": 415,
     "open_issues_count": 0,
-    "forks_count": 34
+    "forks_count": 36
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 96510,
+    "stargazers_count": 96651,
     "open_issues_count": 0,
-    "forks_count": 10195
+    "forks_count": 10209
   },
   {
     "full_name": "tj/n",
-    "stargazers_count": 16385,
+    "stargazers_count": 16407,
     "open_issues_count": 3,
     "forks_count": 715
   },
   {
     "full_name": "lolstring/window98-html-css-js",
-    "stargazers_count": 94,
+    "stargazers_count": 95,
     "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "996icu/996.ICU",
-    "stargazers_count": 262561,
+    "stargazers_count": 262636,
     "open_issues_count": 16725,
-    "forks_count": 21506
+    "forks_count": 21511
   },
   {
     "full_name": "t4t5/sweetalert",
-    "stargazers_count": 22006,
-    "open_issues_count": 182,
+    "stargazers_count": 22007,
+    "open_issues_count": 181,
     "forks_count": 2900
   },
   {
     "full_name": "kleampa/not-paid",
-    "stargazers_count": 9232,
+    "stargazers_count": 9240,
     "open_issues_count": 10,
-    "forks_count": 704
+    "forks_count": 706
   },
   {
     "full_name": "Harvest-Dev/ng-walkthrough",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "mdiplo/Medias_francais",
-    "stargazers_count": 409,
+    "stargazers_count": 410,
     "open_issues_count": 16,
     "forks_count": 47
   },
   {
     "full_name": "hainproject/hain",
-    "stargazers_count": 3178,
+    "stargazers_count": 3180,
     "open_issues_count": 73,
-    "forks_count": 180
+    "forks_count": 181
   }
 ]
